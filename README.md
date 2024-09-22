@@ -2,7 +2,7 @@
 
 ### 🚀 Flutter Developer | Android & iOS | Firebase | MVVM | REST APIs
 
-I’m a passionate **Flutter Developer** with experience building high-quality cross-platform mobile applications. Currently, I’m working as a professional Flutter developer, but I am open to exciting opportunities where I can further contribute to innovative software development projects.
+I’m a passionate **Flutter Developer** with experience in building high-quality cross-platform mobile applications. Currently, I’m working as a professional Flutter developer, but I am open to exciting opportunities where I can further contribute to innovative software development projects.
 
 ---
 
